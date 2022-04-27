@@ -1,4 +1,4 @@
 {
-  "key": "wcabs2022",
-  "getKey": "https://t.me/kkskgaming"
+  "key": "WCABS27APR",
+  "getKey": "https://wcabs.blogspot.com/2022/04/blog-post.html"
 }
